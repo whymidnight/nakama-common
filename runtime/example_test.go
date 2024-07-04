@@ -21,8 +21,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/doublemo/nakama-common/api"
-	"github.com/doublemo/nakama-common/rtapi"
+	"github.com/whymidnight/nakama-common/api"
+	"github.com/whymidnight/nakama-common/rtapi"
 	"google.golang.org/protobuf/types/known/wrapperspb"
 )
 
